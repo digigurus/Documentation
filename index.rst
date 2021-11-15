@@ -1,7 +1,7 @@
 Welcome to iSHARE
 =================
 
-The iSHARE Scheme is a collaborative effort to improve the exchange of data between organizations involved with the Dutch logistics sector. The iSHARE Scheme results in a set of agreements which improve circumstances for data exchange.
+The iSHARE Scheme is a collaborative effort to improve the exchange of data between organizations. The iSHARE Scheme results in a set of agreements which improve circumstances for data exchange.
 
 The ambition of iSHARE is to lower barriers for sharing data, to empower new forms of collaboration in chains and to help scale up existing initiatives that aim to improve conditions for data exchange. The underlying assumption is that if data can flow in a controlled and smart way, it will lead to a more efficient use of infrastructure, less carbon emissions and a more competitive logistics sector. 
 
